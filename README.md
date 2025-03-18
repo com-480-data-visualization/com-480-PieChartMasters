@@ -29,15 +29,22 @@ Please, fill the following sections about your project.
 > - What am I trying to show with my visualization?
 > - Think of an overview for the project, your motivation, and the target audience.
 
-The general topic of our visualization is about the 2008 subprime mortgage crisis. The main goal is to understand the evolution of the crisis geographically and economically.
+The general topic of our visualization is about the 2008 subprime mortgage crisis. The main goal is to understand the evolution of the crisis geographically and temporally.
 
-Here is an overview of the visualization, we already thought :
-- The dynamics of mortgage defaults in the United States. Spatial and temporal analysis through a interactive map, in order to see the evolution and eventually special clusters or stylized facts.
-- The international impact: how the crisis spread through various economic indicators. 
-- Effects on financial markets: visualization of stock indices and bank failures.
-- Socioeconomic consequences: changes in living standards, unemployment, and debt levels.
-- Early warning signals and their spread: using Google Trends to analyze how economic fear propagated.
-- This approach provides a holistic view while allowing for extensions to more recent events, such as the 2020 crisis or current economic tensions.
+Here is an overview of the stylzed facts we want to show through some idea of visualization :
+1. Understand the dynamics of mortgage defaults:
+    - With an interactive map of the United State, we want to highlight how mortgage defaults spreads over time in order to identify regional clusters of high default rates.
+    - It could also shows whether defaults started in specific locations.
+    - If we add other economic factors (such as real estate price, unemployment, and other factors), we can highlight possible correlations. 
+
+2. Understand the international impact of mortgage defaults:
+    - With an interactive map of the world, we want to highlight how the crisis spread through worldly through various economic indicators.
+    - 
+
+3. Effects on financial markets: visualization of stock indices and bank failures.
+4. Socioeconomic consequences: changes in living standards, unemployment, and debt levels.
+5. Early warning signals and their spread: using Google Trends to analyze how economic fear propagated.
+6. This approach provides a holistic view while allowing for extensions to more recent events, such as the 2020 crisis or current economic tensions.
 
 ### Exploratory Data Analysis
 
