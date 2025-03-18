@@ -49,7 +49,7 @@ Here is an overview of the stylzed facts we want to show through some idea of vi
     - With a heatmap or a word cloud using Google Trends to highlight how economic fear propagated.
     - Completting this with a timeseries to understand when the fear started to propagate
 
-This approach provides a holistic view while allowing for extensions to more recent events, such as the 2020 crisis or current economic tensions.
+The visualizations above will help us understand the subprime mortgage crisis, revealing the key indicators, how they changed over time, and the underlying reasons behind the meltdown. Highlighting patterns and trends, this analysis not only explains the past, but attempts to identify possible early signals providing a framework that could be applied to predict and avoid future financial crises.
 
 ### Exploratory Data Analysis
 
