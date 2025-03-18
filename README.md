@@ -34,8 +34,8 @@ The general topic of our visualization is about the 2008 subprime mortgage crisi
 Here is an overview of the stylzed facts we want to show through some idea of visualization :
 1. Understand the dynamics of mortgage defaults:
     - With an interactive map of the United State, we want to highlight how mortgage defaults spreads over time in order to identify regional clusters of high default rates.
-    - It could also shows whether defaults started in specific locations.
-    - If we add other economic factors (such as real estate price, unemployment, and other factors), we can highlight possible correlations. 
+    - With the same visualization we could also shows whether defaults started in specific locations.
+    - If we add other economic factors (such as real estate price, unemployment, and other factors), we can highlight possible correlations on another visualization. 
 
 2. Understand the international impact of mortgage defaults:
     - With an interactive map of the world, we want to highlight how the crisis spread through worldly through various economic indicators.
