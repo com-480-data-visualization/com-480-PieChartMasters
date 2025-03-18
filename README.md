@@ -34,17 +34,22 @@ The general topic of our visualization is about the 2008 subprime mortgage crisi
 Here is an overview of the stylzed facts we want to show through some idea of visualization :
 1. Understand the dynamics of mortgage defaults:
     - With an interactive map of the United State, we want to highlight how mortgage defaults spreads over time in order to identify regional clusters of high default rates.
-    - With the same visualization we could also shows whether defaults started in specific locations.
+    - On the same visualization we could also shows whether defaults started in specific locations.
     - If we add other economic factors (such as real estate price, unemployment, and other factors), we can highlight possible correlations on another visualization. 
 
-2. Understand the international impact of mortgage defaults:
-    - With an interactive map of the world, we want to highlight how the crisis spread through worldly through various economic indicators.
-    - 
+2. Understand the international and socioeconomic impact of mortgage defaults:
+    - With an interactive map of the world, we want to highlight how the crisis spread through worldly through various economic indicators (Consumer index, ...) and see which country were most affected by the financial crisis.
+    - With time-series graphs of various socioeconomic indicators (like unemployement, net worth, household debt, ...) to highlight how household wealth eroded post-crisis.
 
-3. Effects on financial markets: visualization of stock indices and bank failures.
-4. Socioeconomic consequences: changes in living standards, unemployment, and debt levels.
-5. Early warning signals and their spread: using Google Trends to analyze how economic fear propagated.
-6. This approach provides a holistic view while allowing for extensions to more recent events, such as the 2020 crisis or current economic tensions.
+3. Understand the effects on financial markets:
+    - With a time series of major stock indices with crisis events marked in order to understand the timeline of the crisis and how the financial market reacted in response to key events.
+    - With a Bubble map of companies loss and companies that goes in bankruptcy to highlight to major financial institutions that collapsed.
+   
+4. Identify the early warning signals and their spread:
+    - With a heatmap or a word cloud using Google Trends to highlight how economic fear propagated.
+    - Completting this with a timeseries to understand when the fear started to propagate
+
+This approach provides a holistic view while allowing for extensions to more recent events, such as the 2020 crisis or current economic tensions.
 
 ### Exploratory Data Analysis
 
