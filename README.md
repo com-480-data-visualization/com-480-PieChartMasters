@@ -2,9 +2,9 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-|Jérôme Baras | |
-|Marc Bonhôte Tomasini | |
-|Eliot Goncalves | |
+|Jérôme Baras | 326256 |
+|Marc Bonhôte Tomasini | 325411 |
+|Eliot Goncalves | 330553 |
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
@@ -28,6 +28,16 @@ Please, fill the following sections about your project.
 > Frame the general topic of your visualization and the main axis that you want to develop.
 > - What am I trying to show with my visualization?
 > - Think of an overview for the project, your motivation, and the target audience.
+
+The general topic of our visualization is about the 2008 subprime mortgage crisis. The main goal is to understand the evolution of the crisis geographically and economically.
+
+Here is an overview of the visualization, we already thought :
+- The dynamics of mortgage defaults in the United States. Spatial and temporal analysis through a interactive map, in order to see the evolution and eventually special clusters or stylized facts.
+- The international impact: how the crisis spread through various economic indicators. 
+- Effects on financial markets: visualization of stock indices and bank failures.
+- Socioeconomic consequences: changes in living standards, unemployment, and debt levels.
+- Early warning signals and their spread: using Google Trends to analyze how economic fear propagated.
+- This approach provides a holistic view while allowing for extensions to more recent events, such as the 2020 crisis or current economic tensions.
 
 ### Exploratory Data Analysis
 
