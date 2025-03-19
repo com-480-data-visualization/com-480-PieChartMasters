@@ -31,22 +31,22 @@ Please, fill the following sections about your project.
 
 The general topic of our visualization is about the 2008 subprime mortgage crisis. The main goal is to understand the evolution of the crisis geographically and temporally.
 
-Here is an overview of the stylzed facts we want to show through some idea of visualization :
+Here is an overview of the different aspect of the crisis that we want to show through some visualizations in order to understand them :
 1. Understand the dynamics of mortgage defaults:
     - With an interactive map of the United State, we want to highlight how mortgage defaults spreads over time in order to identify regional clusters of high default rates.
-    - On the same visualization we could also shows whether defaults started in specific locations.
-    - If we add other economic factors (such as real estate price, unemployment, and other factors), we can highlight possible correlations on another visualization. 
+    - On the same visualization, we could also shows whether defaults started in specific locations.
+    - By adding other economic factors (such as real estate price, unemployment, and other factors), we can highlight possible correlations on another visualization. 
 
 2. Understand the international and socioeconomic impact of mortgage defaults:
-    - With an interactive map of the world, we want to highlight how the crisis spread through worldly through various economic indicators (Consumer index, ...) and see which country were most affected by the financial crisis.
-    - With time-series graphs of various socioeconomic indicators (like unemployement, net worth, household debt, ...) to highlight how household wealth eroded post-crisis.
+    - With an interactive map of the world, we want to highlight how the crisis spread in the world through various economic indicators (Consumer index, ...) and see which country were most affected by the financial crisis.
+    - With time-series graphs of various socioeconomic indicators (like unemployement, net worth, household debt, ...), we want to highlight how household wealth eroded post-crisis.
 
 3. Understand the effects on financial markets:
-    - With a time series of major stock indices with crisis events marked in order to understand the timeline of the crisis and how the financial market reacted in response to key events.
-    - With a Bubble map of companies loss and companies that goes in bankruptcy to highlight to major financial institutions that collapsed.
+    - With a time series of major stock indices supplemented with crisis events marked in order to understand the timeline of the crisis and how the financial market reacted in response to key events.
+    - With a Bubble map of companies loss and companies that goes in bankruptcy, we want to highlight to major financial institutions that collapsed.
    
 4. Identify the early warning signals and their spread:
-    - With a heatmap or a word cloud using Google Trends to highlight how economic fear propagated.
+    - With a heatmap or a word cloud using Google Trends, we want to highlight how economic fear propagated.
     - Completting this with a timeseries to understand when the fear started to propagate
 
 The visualizations above will help us understand the subprime mortgage crisis, revealing the key indicators, how they changed over time, and the underlying reasons behind the meltdown. Highlighting patterns and trends, this analysis not only explains the past, but attempts to identify possible early signals providing a framework that could be applied to predict and avoid future financial crises.
