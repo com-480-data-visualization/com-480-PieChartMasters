@@ -50,6 +50,7 @@ Please, fill the following sections about your project.
 - Indice de confiance des consommateurs
     - Source : OECD Consumer Confidence Index (CCI)
     - Utilisation : Cartographier l’évolution de la confiance des consommateurs à l’échelle mondiale, en lien avec l’impact de la crise.
+
 **4. Données sur le Secteur Hypothécaire aux USA**
 - Données complètes sur les prêts hypothécaires (HMDA)
     - Source : Consumer Finance – Historic HMDA Data
