@@ -23,60 +23,61 @@ Please, fill the following sections about your project.
 >
 > Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
 >
-**1. Données Économiques et de Marché aux USA**
-- Prix de l’immobilier aux USA
-    - Source : FRED – ASPUS
-    - Utilisation : Visualiser l’évolution des prix immobiliers avant et après la crise.
-    - Idée visuelle : Animation « bubble burst » pour illustrer la forte baisse des prix.
+**1. Economic and Market Data in the USA**
 
-- Évolution du taux de chômage aux USA
-    - Source : FRED – UNRATE
-    - Utilisation : Suivre l’évolution du chômage, indicateur clé de l’impact social de la crise.
+- US Real Estate Prices
+        - Source: FRED – ASPUS
+        - Usage: Visualize the evolution of real estate prices before and after the crisis.
+        - Visual Idea: “Bubble burst” animation to illustrate the significant drop in prices.
+- Evolution of the Unemployment Rate in the USA
+        - Source: FRED – UNRATE
+        - Usage: Track the evolution of unemployment, a key indicator of the social impact of the crisis.
+- Wealth of the Poorest Households
+        - Source: FRED – WFRBLB50107
+        - Usage: Measure the crisis’s impact on the wealth of the most economically vulnerable groups.
+  
+**2. Data on Financial Institutions and the Banking Sector**
 
-- Patrimoine des ménages les plus modestes
-    - Source : FRED – WFRBLB50107
-    - Utilisation : Mesurer l’impact de la crise sur la richesse des plus fragiles économiquement.
-
-**2. Données sur les Institutions Financières et le Secteur Bancaire**
-- Liste des banques acquises ou en faillite durant la Grande Récession
-    - Source : Wikipedia – List of banks acquired or bankrupted during the Great Recession
-    - Utilisation : Créer une carte des institutions financières affectées (localisation, montant des pertes, etc.).
-
-- Liste des pertes (writedowns) dues à la crise subprime
-    - Source : Wikipedia – List of writedowns due to subprime crisis
-    - Utilisation : Visualiser l’ampleur des pertes sur certains produits financiers (MBS, CDO) par institution ou région.
+- List of Banks Acquired or Bankrupted During the Great Recession
+        - Source: Wikipedia – List of banks acquired or bankrupted during the Great Recession
+        - Usage: Create a map of the affected financial institutions (location, amount of losses, etc.).
+- List of Writedowns Due to the Subprime Crisis
+        - Source: Wikipedia – List of writedowns due to subprime crisis
+        - Usage: Visualize the magnitude of losses on certain financial products (MBS, CDO) by institution or region.
 - FDIC Failed Bank List
-    - Source : FDIC Failed Bank List
-    - Utilisation : Approfondir l’analyse des faillites bancaires aux États-Unis, avec des informations officielles (dates de fermeture, actifs, acquéreurs) pour comprendre la répartition spatio-temporelle des faillites pendant la crise.
+        - Source: FDIC Failed Bank List
+        - Usage: Deepen the analysis of bank failures in the United States with official information (closing dates, assets, acquiring institutions) to understand the spatial and temporal distribution of failures during the crisis.
+  
+**3. Global Data and Confidence Indicators**
 
-**3. Données Globales et Indicateurs de Confiance**
-- Indice de confiance des consommateurs
-    - Source : OECD Consumer Confidence Index (CCI)
-    - Utilisation : Cartographier l’évolution de la confiance des consommateurs à l’échelle mondiale, en lien avec l’impact de la crise.
+- Consumer Confidence Index
+        - Source: OECD Consumer Confidence Index (CCI)
+        - Usage: Map the evolution of consumer confidence worldwide, in connection with the impact of the crisis.
 - World Bank – World Development Indicators (WDI)
-    - Source : Banque Mondiale – WDI
-    - Utilisation : Analyser différents indicateurs globaux (PIB, dette, taux de chômage, et effets sur d’autres secteurs comme la santé), pour évaluer l’ampleur de la crise financière dans le monde et ses répercussions sectorielles.
+        - Source: World Bank – WDI
+        - Usage: Analyze various global indicators (GDP, debt, unemployment rate, and effects on other sectors such as healthcare) to assess the scope of the financial crisis worldwide and its sectoral repercussions.
+  
+**4. Data on the US Mortgage Sector**
 
-**4. Données sur le Secteur Hypothécaire aux USA**
-- Données complètes sur les prêts hypothécaires (HMDA)
-    - Source : Consumer Finance – Historic HMDA Data
-    - Caractéristiques : Comprend des informations sur le type de prêt, montant, caractéristiques démographiques (race, sexe, revenus), localisation (état, comté, tract, etc.). Permet d’analyser la répartition des défauts de paiement et de faire des liens avec d’autres indicateurs socio-économiques.
-    - Utilisation : Création de cartes dynamiques des défauts aux USA, analyses statistiques croisées (salaire, situation de crédit, taux de défaut).
- 
-**5. Données Complémentaires : Indicateurs Boursiers & Analyse du Sentiment**
+- Comprehensive Mortgage Data (HMDA)
+        - Source: Consumer Finance – Historic HMDA Data
+        - Features: Includes information on loan type, amount, demographic characteristics (race, gender, income), location (state, county, tract, etc.). Enables analysis of the distribution of payment defaults and correlation with other socio-economic indicators.
+        - Usage: Creation of dynamic maps of defaults in the USA, cross statistical analyses (salary, credit situation, default rate).
+  
+**5. Additional Data: Stock Market Indicators & Sentiment Analysis**
+
 - Financial Market Data (Yahoo Finance / Google Finance)
-    - Source : Yahoo Finance ou Google Finance
-    - Utilisation :
-        - Récupérer l’historique des indices boursiers (S&P 500, Dow Jones, NASDAQ, etc.), des cours d’actions bancaires, des taux obligataires.
-        - Visualiser la chute des marchés durant la crise et la reprise ultérieure.
-        - Comparer la performance du secteur financier à d’autres secteurs de l’économie.
-- Google Trends pour l’Analyse du Sentiment
-    - Source : Google Trends
-    - Utilisation :
-        - Étudier l’évolution des recherches liées aux termes « mortgage », « subprime », ou « financial crisis ».
-        - Identifier les pics d’intérêt du public et corréler ces pics avec les événements clés de la crise.
-        - Approche qualitative pour comprendre la perception et l’inquiétude des consommateurs.
-
+        - Source: Yahoo Finance or Google Finance
+        - Usage:
+            - Retrieve historical data on stock indices (S&P 500, Dow Jones, NASDAQ, etc.), bank stock prices, bond yields.
+            - Visualize the market crash during the crisis and the subsequent recovery.
+            - Compare the financial sector’s performance with other sectors of the economy.
+- Google Trends for Sentiment Analysis
+        - Source: Google Trends
+        - Usage:
+            - Study the evolution of searches related to terms such as “mortgage,” “subprime,” or “financial crisis.”
+            - Identify peaks in public interest and correlate them with key crisis events.
+            - Adopt a qualitative approach to understand consumer perception and concerns.
 
 ### Problematic
 
