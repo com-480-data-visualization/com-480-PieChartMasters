@@ -111,6 +111,17 @@ The visualizations above will help us understand the subprime mortgage crisis, r
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data
 
+**Exploratory Data Analysis – Pre-processing Overview**
+
+For most of the selected datasets—such as real estate prices (FRED), unemployment data (FRED), consumer confidence (OECD), and global indicators (World Bank)—the data is already well-structured and cleaned. These sources typically provide consistent, aggregated, and standardized information with minimal missing values or anomalies. As a result, only minimal preprocessing (e.g., basic checks for date alignment or outlier detection) is required for these datasets.
+
+However, the mortgage dataset (HMDA) is substantially larger and noisier, containing multiple columns, various categorical features, and some missing or incomplete records. This dataset will require more extensive data cleaning and preprocessing steps, such as:
+- Handling missing values in key fields (e.g., applicant income, property location).
+- Standardizing categorical variables (loan type, race, ethnicity, etc.) to ensure consistency.
+- Removing or imputing outliers and invalid entries (e.g., negative or zero loan amounts, duplicated rows).
+
+By focusing additional effort on the mortgage dataset’s preprocessing, we can ensure that the rest of the datasets—already in good shape—will integrate smoothly for subsequent analyses and visualizations.
+
 ### Related work
 
 
