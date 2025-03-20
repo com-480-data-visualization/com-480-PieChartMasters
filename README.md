@@ -45,17 +45,38 @@ Please, fill the following sections about your project.
 - Liste des pertes (writedowns) dues à la crise subprime
     - Source : Wikipedia – List of writedowns due to subprime crisis
     - Utilisation : Visualiser l’ampleur des pertes sur certains produits financiers (MBS, CDO) par institution ou région.
+- FDIC Failed Bank List
+    - Source : FDIC Failed Bank List
+    - Utilisation : Approfondir l’analyse des faillites bancaires aux États-Unis, avec des informations officielles (dates de fermeture, actifs, acquéreurs) pour comprendre la répartition spatio-temporelle des faillites pendant la crise.
 
 **3. Données Globales et Indicateurs de Confiance**
 - Indice de confiance des consommateurs
     - Source : OECD Consumer Confidence Index (CCI)
     - Utilisation : Cartographier l’évolution de la confiance des consommateurs à l’échelle mondiale, en lien avec l’impact de la crise.
+- World Bank – World Development Indicators (WDI)
+    - Source : Banque Mondiale – WDI
+    - Utilisation : Analyser différents indicateurs globaux (PIB, dette, taux de chômage, et effets sur d’autres secteurs comme la santé), pour évaluer l’ampleur de la crise financière dans le monde et ses répercussions sectorielles.
 
 **4. Données sur le Secteur Hypothécaire aux USA**
 - Données complètes sur les prêts hypothécaires (HMDA)
     - Source : Consumer Finance – Historic HMDA Data
     - Caractéristiques : Comprend des informations sur le type de prêt, montant, caractéristiques démographiques (race, sexe, revenus), localisation (état, comté, tract, etc.). Permet d’analyser la répartition des défauts de paiement et de faire des liens avec d’autres indicateurs socio-économiques.
     - Utilisation : Création de cartes dynamiques des défauts aux USA, analyses statistiques croisées (salaire, situation de crédit, taux de défaut).
+ 
+**5. Données Complémentaires : Indicateurs Boursiers & Analyse du Sentiment**
+- Financial Market Data (Yahoo Finance / Google Finance)
+    - Source : Yahoo Finance ou Google Finance
+    - Utilisation :
+        - Récupérer l’historique des indices boursiers (S&P 500, Dow Jones, NASDAQ, etc.), des cours d’actions bancaires, des taux obligataires.
+        - Visualiser la chute des marchés durant la crise et la reprise ultérieure.
+        - Comparer la performance du secteur financier à d’autres secteurs de l’économie.
+- Google Trends pour l’Analyse du Sentiment
+    - Source : Google Trends
+    - Utilisation :
+        - Étudier l’évolution des recherches liées aux termes « mortgage », « subprime », ou « financial crisis ».
+        - Identifier les pics d’intérêt du public et corréler ces pics avec les événements clés de la crise.
+        - Approche qualitative pour comprendre la perception et l’inquiétude des consommateurs.
+
 
 ### Problematic
 
