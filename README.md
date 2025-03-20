@@ -26,12 +26,16 @@ Please, fill the following sections about your project.
 **1. Economic and Market Data in the USA**
 
 - US Real Estate Prices
+  
         - Source: FRED – ASPUS
         - Usage: Visualize the evolution of real estate prices before and after the crisis.
         - Visual Idea: “Bubble burst” animation to illustrate the significant drop in prices.
+  
 - Evolution of the Unemployment Rate in the USA
+  
         - Source: FRED – UNRATE
         - Usage: Track the evolution of unemployment, a key indicator of the social impact of the crisis.
+  
 - Wealth of the Poorest Households
         - Source: FRED – WFRBLB50107
         - Usage: Measure the crisis’s impact on the wealth of the most economically vulnerable groups.
