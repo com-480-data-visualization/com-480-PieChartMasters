@@ -25,9 +25,9 @@ Please, fill the following sections about your project.
 >
 1. Données Économiques et de Marché aux USA
 Prix de l’immobilier aux USA
-    • Source : FRED – ASPUS
-    • Utilisation : Visualiser l’évolution des prix immobiliers avant et après la crise.
-    • Idée visuelle : Animation « bubble burst » pour illustrer la forte baisse des prix.
+- Source : FRED – ASPUS
+- Utilisation : Visualiser l’évolution des prix immobiliers avant et après la crise.
+- Idée visuelle : Animation « bubble burst » pour illustrer la forte baisse des prix.
 
 Évolution du taux de chômage aux USA
     • Source : FRED – UNRATE
