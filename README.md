@@ -60,6 +60,7 @@ We chose multiple datasets to capture both micro-level (mortgage lending) and ma
 - **[Google Trends](https://trends.google.fr/trends?geo=CH&hl=fr)**  
   - **Usage**: Study searches for “mortgage”, “subprime”, "crisis" etc.; identify interest peaks; gauge public sentiment.
 
+--------------------------------------------------------------------------------------------------------------
 
 ### Problematic
 
@@ -86,6 +87,8 @@ Here is an overview of the different aspect of the crisis that we want to show t
 
 The visualizations above will help us understand the subprime mortgage crisis, revealing the key indicators, how they changed over time, and the underlying reasons behind the meltdown. Highlighting patterns and trends, this analysis not only explains the past, but attempts to identify possible early signals providing a framework that could be applied to predict and avoid future financial crises.
 
+--------------------------------------------------------------------------------------------------------------------
+
 ### Exploratory Data Analysis
 
 > Pre-processing of the data set you chose
@@ -97,6 +100,7 @@ While we will use HDMA data from 2007–2010 in practice, we will here explore t
 
 The dataset reveals significant disparities in loan amounts and applicant incomes. Loan amounts range from $1,000 to nearly $100M (median: $140K; mean: $182K), while incomes span from $1K to almost $10M (median: $69K; mean: $95.6K). Loans are geographically diverse, covering 16,075 ZIP codes across 1,711 counties in all 50 states. Refinancing is the primary loan purpose (~47%), followed by home purchases (~40%) and home improvements (~8%).
 
+---------------------------------------------------------------------------------------------------
 
 ### Related work
 
