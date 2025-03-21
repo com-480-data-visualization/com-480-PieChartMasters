@@ -56,7 +56,7 @@ Please, fill the following sections about your project.
 - **Financial Market Data (Yahoo/Google Finance)**
   - **Usage**: Retrieve historical indices (S&P 500, Dow, NASDAQ), visualize crash and recovery, compare sector performance.
 - **Google Trends**
-  - **Usage**: Study searches for “mortgage,” “subprime,” etc.; identify interest peaks; gauge public sentiment.
+  - **Usage**: Study searches for “mortgage,” “subprime,”, "crisis" etc.; identify interest peaks; gauge public sentiment.
 
 
 ### Problematic
