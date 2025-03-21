@@ -37,7 +37,7 @@ To analyze the 2008 financial crisis, we chose multiple datasets covering both m
 - **[Banks Acquired/Bankrupted (Wikipedia)](https://en.wikipedia.org/wiki/List_of_banks_acquired_or_bankrupted_during_the_Great_Recession)**  
   - List of affected institutions (location, losses, etc.).  
 - **[Subprime Crisis Write-downs (Wikipedia)](https://en.wikipedia.org/wiki/List_of_writedowns_due_to_subprime_crisis)**  
-  - Show MBS/CDO losses by institution or region.  
+  - Show losses by institution or region.  
 - **[FDIC Failed Bank List](https://www.fdic.gov/bank-failures/failed-bank-list)**  
   - Analyze official USA bank failures (dates, assets, acquiring institutions) to understand spatial and temporal patterns.
 
