@@ -116,7 +116,7 @@ Multiple institutions and researchers have used the HMDA dataset for similar ana
 
 Our approach is original because most projects done on this dataset focused on specific aspects (for instance, the relationship between ethnic groups and mortgage approvals), and did not provide a full overview of the local and international socio-economic consequences. In our project, leveraging the use of different datasets, we aim to integrate multiple perspectives, such as the international economic impact, the impact on the quality of life, on institutional collapses and analyze the fear of the crisis. All these elements will be combined into dynamic visualizations to offer an interactive and complete understanding of the crisis.
 
-We found inspiration in the URL displayed above, although it lacks interactivity. We would like to pursue and deepen the usage they made of the map.
+We found inspiration in the Urban Institute visualization (see URL above), although it lacks interactivity. We would like to pursue and deepen the usage they made of the map.
 We also looked at projects from students in previous years, and the project on Formula 1 history (https://formula1viz.altervista.org/index.html) is very well realized and it would also be interesting to have an interactive map linked to displayed graphs and statistics.
 
 ----------------------------------------------------------------------------------------------------------
