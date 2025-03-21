@@ -84,7 +84,7 @@ Through interactive visualizations, we aim to highlight key aspects of the crisi
 - With a heatmap or a word cloud using Google Trends, we want to highlight how economic fear propagated.
 - We will complement this with a time series to analyze when economic fear began to spread.
   
-By identifying patterns and trends, our analysis aims to provide a comprehensive view of the crisis—its causes, its widespread impact, and the signals that preceded it. While some visualizations explore early warning signs, most focus on understanding the economic and financial consequences of the meltdown. The project is designed to be accessible, even for those without a financial background.  
+By identifying patterns and trends, our analysis aims to provide a complete view of the crisis—its causes, its widespread impact, and the signals that preceded it. While some visualizations explore early warning signs, most focus on understanding the economic and financial consequences of the meltdown. The project is designed to be accessible, even for those without a financial background.  
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ Multiple institutions and researchers have used the HMDA dataset for similar ana
 - Journalists & Data Scientists: Used HMDA data to map the mortgage crisis, focusing on regional default rates and their impact on minority communities (https://jhucovid19.policymap.com/blog/using-hmda-data-to-understand-lending-activity-in-detroit)
 - Academic Studies: Researchers have built models to analyze how mortgage defaults propagated through the banking system. While the exact datasets may vary slightly, they contain similar types of financial information.
 
-Our approach is original because most projects done on this dataset focused on specific aspects (for instance, the relationship between ethnic groups and mortgage approvals), and did not provide a full overview of the local and international socio-economic consequences. In our project, leveraging the use of different datasets, we aim to integrate multiple perspectives, such as the international economic impact, the impact on the quality of life, on institutional collapses and analyze the fear of the crisis. All these elements will be combined into dynamic visualizations to offer an interactive and comprehensive understanding of the crisis.
+Our approach is original because most projects done on this dataset focused on specific aspects (for instance, the relationship between ethnic groups and mortgage approvals), and did not provide a full overview of the local and international socio-economic consequences. In our project, leveraging the use of different datasets, we aim to integrate multiple perspectives, such as the international economic impact, the impact on the quality of life, on institutional collapses and analyze the fear of the crisis. All these elements will be combined into dynamic visualizations to offer an interactive and complete understanding of the crisis.
 
 We found inspiration in the URL displayed above, although it lacks interactivity. We would like to pursue and deepen the usage they made of the map.
 We also looked at projects from students in previous years, and the project on Formula 1 history (https://formula1viz.altervista.org/index.html) is very well realized and it would also be interesting to have an interactive map linked to displayed graphs and statistics.
