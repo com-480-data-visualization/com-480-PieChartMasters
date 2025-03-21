@@ -1,4 +1,4 @@
-# Project of Data Visualization (COM-480)
+# Project of Data Visualization (COM-480) : Visualizing the Subprime Crisis
 
 | Student's name | SCIPER |
 | -------------- | ------ |
@@ -21,44 +21,43 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-We chose multiple datasets to capture both micro-level (mortgage lending) and macro-level (unemployment, global indicators) dimensions of the 2008 financial crisis. By combining data from the CFPB, FRED, World Bank, and others, we aim to highlight how individual borrower behavior and institutional practices intersected with broader market forces, culminating in a historic economic downturn.
-
+To comprehensively analyze the 2008 financial crisis, we use multiple datasets covering both micro-level factors (mortgage lending) and macro-level effects (unemployment, global economic indicators). This allows us to examine both causes and consequences across different scales. 
 
 **1. Economic and Market Data in the USA**  
 - **[US Real Estate Prices (FRED – ASPUS)](https://fred.stlouisfed.org/series/ASPUS)**  
-  - **Usage**: Compare real estate prices before and after the crisis.  
+  - Compare real estate prices before and after the crisis.  
 - **[Unemployment Rate (FRED – UNRATE)](https://fred.stlouisfed.org/series/UNRATE)**  
-  - **Usage**: Track unemployment as a key social impact.  
+  - Track unemployment as a key social impact.  
 - **[Wealth of the Poorest Households (FRED – WFRBLB50107)](https://fred.stlouisfed.org/series/WFRBLB50107)**  
-  - **Usage**: Assess the crisis’s impact on the most vulnerable groups.
+  - Assess the crisis’s impact on the most vulnerable groups.
 - **[State-Level Debt-to-Income ratio (Federal Reserve)](https://www.federalreserve.gov/releases/z1/dataviz/household_debt/state/map/#year:2008)**
+  - Show that debt level were a clear indicator of unstability
 
 **2. Financial Institutions & Banking Sector**  
-- **[Banks Acquired/Bankrupted (Wikipedia)](https://en.wikipedia.org/wiki/List_of_banks_acquired_or_bankrupted_during_the_Great_Recession?utm_source=chatgpt.com)**  
-  - **Usage**: Map affected institutions (location, losses, etc.).  
+- **[Banks Acquired/Bankrupted (Wikipedia)](https://en.wikipedia.org/wiki/List_of_banks_acquired_or_bankrupted_during_the_Great_Recession)**  
+  - Map affected institutions (location, losses, etc.).  
 - **[Subprime Crisis Writedowns (Wikipedia)](https://en.wikipedia.org/wiki/List_of_writedowns_due_to_subprime_crisis)**  
-  - **Usage**: Show MBS/CDO losses by institution or region.  
+  - Show MBS/CDO losses by institution or region.  
 - **[FDIC Failed Bank List](https://www.fdic.gov/bank-failures/failed-bank-list)**  
-  - **Usage**: Analyze official bank failures (dates, assets, acquiring institutions) to understand spatial and temporal patterns.
+  - Analyze official bank failures (dates, assets, acquiring institutions) to understand spatial and temporal patterns.
 
 **3. Global Data & Confidence Indicators**  
 - **[OECD Consumer Confidence Index](https://www.oecd.org/fr/data/indicators/consumer-confidence-index-cci.html?oecdcontrol-b2a0dbca4d-var3=2005-05&oecdcontrol-b2a0dbca4d-var4=2012-02)**  
-  - **Usage**: Map worldwide consumer confidence in relation to the crisis.  
+  - Map worldwide consumer confidence in relation to the crisis.  
 - **[World Bank – World Development Indicators (WDI)](https://data.worldbank.org/indicator)**  
-  - **Usage**: Evaluate global crisis impact (GDP, debt, unemployment, healthcare).
+  - Evaluate global crisis impact (GDP, debt, unemployment, healthcare).
 
 **4. US Mortgage Sector**  
 - **[Comprehensive Mortgage Data (HMDA, CFPB)](https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=nationwide&records=all-records&field_descriptions=labels)**  
-  - **Features**: Loan type, amount, demographics, location; links defaults to socio-economic indicators.  
-  - **Usage**: A valuable dataset for understanding the characteristics of mortgage lending before the collapse, providing insights into the factors that contributed to the crisis.  
+  - This dataset provides key insights into mortgage lending characteristics before the collapse, shedding light on factors that contributed to the crisis.
 - **[Mortgages 90+ Days Delinquent (CFPB)](https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-90-or-more-days-delinquent/)**  
-  - **Usage**: Identify delinquency clusters on a map over time. This dataset provides actual performance data, enabling clearer spatio-temporal insights into mortgage defaults.
+  - Identify delinquency clusters on a map over time. This dataset provides actual performance data, enabling clearer spatio-temporal insights into mortgage defaults.
 
 **5. Stock Market & Sentiment Analysis**  
 - **[Financial Market Data (Yahoo)](https://finance.yahoo.com/)**  
-  - **Usage**: Retrieve historical indices (S&P 500, Dow, NASDAQ), visualize crash and recovery, compare sector performance.  
+  - Retrieve historical indices (S&P 500, Dow, NASDAQ), visualize crash and recovery, compare sector performance.  
 - **[Google Trends](https://trends.google.fr/trends?geo=CH&hl=fr)**  
-  - **Usage**: Study searches for “mortgage”, “subprime”, "crisis" etc.; identify interest peaks; gauge public sentiment.
+  - Study searches for “mortgage”, “subprime”, "crisis" etc.; identify interest peaks; gauge public sentiment.
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -70,7 +69,7 @@ Here is an overview of the different aspect of the crisis that we want to show t
 
 **1. Understand the dynamics of mortgage defaults:**
 - With an interactive map of the United State, we want to highlight how mortgage defaults spreads over time in order to identify regional clusters of high default rates.
-- On the same visualization, we could also shows whether defaults started in specific locations.
+- This visualization will also highlight the geographic origins of mortgage defaults.
 - By adding other economic factors (such as real estate price, unemployment, and other factors), we can highlight possible correlations on another visualization. 
 
 **2. Understand the international and socioeconomic impact of mortgage defaults:**
@@ -83,7 +82,7 @@ Here is an overview of the different aspect of the crisis that we want to show t
    
 **4. Identify the early warning signals and their spread:**
 - With a heatmap or a word cloud using Google Trends, we want to highlight how economic fear propagated.
-- Completting this with a timeseries to understand when the fear started to propagate
+- Completing this with a timeseries to understand when the fear started to propagate
 
 The visualizations above will help us understand the subprime mortgage crisis, revealing the key indicators, how they changed over time, and the underlying reasons behind the meltdown. Highlighting patterns and trends, this analysis not only explains the past, but attempts to identify possible early signals providing a framework that could be applied to predict and avoid future financial crises. Since this subject is fairly technical and involves various financial concepts, it will be essential to build the visualizations in a way that will be understandable by someone without prior knowledge on the topic. 
 
@@ -93,15 +92,21 @@ The visualizations above will help us understand the subprime mortgage crisis, r
 
 For our chosen subject, most relevant datasets we chose, such as US real estate prices, unemployment rate, and OECD consumer confidence index, are  available from reputable sources. These datasets are typically clean, pre-processed single-feature time series that provide strong insight on the crisis's impact (real estate price boom and then drop, unemployement growth, growing debt load before the crisis, etc.).
 
-The dataset that will require the most preprocessing and advance data analysis (eventually using Machine Learning models) is the HDMA Mortgage dataset. While we will use HDMA data from 2007–2010 in practice, we will here explore the 2007 dataset since it is representative of the aggregate. This dataset includes 953,569 mortgage applications and 78 features covering loan details, borrower demographics (population, genre), and lending decisions. Key categorical variables include loan type, loan purpose, property type, and applicant credit factors, while numerical features such as loan amounts, income, and approval rates provide insights on the lending characteristics leading up to the crisis and assess how borrower characteristics influenced loan approval and potential defaults. After preprocessing, more than 20 features were dropped due to excessive missing values or irrelevance.
+The HDMA Mortgage dataset will require the most preprocessing and advanced data analysis, potentially incorporating Machine Learning techniques. While we will use HDMA data from 2007–2010 in practice, we will here explore the 2007 dataset since it is representative of the aggregate. This dataset includes 953,569 mortgage applications and 78 features covering loan details, borrower demographics (population, genre), and lending decisions. Key categorical variables include loan type, loan purpose, property type, and applicant credit factors, while numerical features such as loan amounts, income, and approval rates provide insights on the lending characteristics leading up to the crisis and assess how borrower characteristics influenced loan approval and potential defaults. After preprocessing, more than 20 features were dropped due to excessive missing values or irrelevance.
 
-The dataset seems to provide a very broad view of the mortgage situation in the USA, as it includes all types of transactions and applicant. Loan amounts range from $1,000 to nearly $100M (median: $140K; mean: $182K), while incomes span from $1K to almost $10M (median: $69K; mean: $95.6K). Loans are geographically diverse, covering 16,075 ZIP codes across 1,711 counties in all 50 states. Concerning the loan purpose, refinancing is the primary (~50%), followed by home purchases (~41%) and home improvements (~9%). This last point provides a first good insight on the situation in 2007, as it was common to cover loan payment via refinancing, taking advantage of the continuously growing real estate prices (until the burst), with debt accumulating until a breaking point. 
+The dataset seems to provide a very broad view of the mortgage situation in the USA, as it includes all types of transactions and applicant : 
+- Loan amounts range from $1,000 to nearly $100M (median: $140K; mean: $182K).
+- Incomes span from $1K to almost $10M (median: $69K; mean: $95.6K).
+- Loans are geographically diverse, covering 16,075 ZIP codes across 1,711 counties in all 50 states.
+- Concerning the loan purpose, refinancing is the primary (~50%), followed by home purchases (~41%) and home improvements (~9%).
+
+This last point provides a first good insight on the situation in 2007, as it was common to cover loan payment via refinancing, taking advantage of the continuously growing real estate prices (until the burst), with debt accumulating until a breaking point. 
 
 ---------------------------------------------------------------------------------------------------
 
 ### Related work
 
-Multiples institutions and researchers have used the HMDA dataset for similar analyses: 
+Multiple institutions and researchers have used the HMDA dataset for similar analyses: 
 
 - Urban Institute & Housing Finance Policy Center: Analyzed mortgage denial rates, small-dollar lending, and racial disparities in lending.
 (https://apps.urban.org/features/mortgages-by-race/)
@@ -109,7 +114,7 @@ Multiples institutions and researchers have used the HMDA dataset for similar an
 - Journalists & Data Scientists: Used HMDA data to map the mortgage crisis, focusing on regional default rates and their impact on minority communities (https://jhucovid19.policymap.com/blog/using-hmda-data-to-understand-lending-activity-in-detroit)
 - Academic Studies: Researchers have built models to analyze how mortgage defaults propagated through the banking system. While the exact datasets may vary slightly, they contain similar types of financial information.
 
-Our approach is original because most project done on these dataset were focused on specific aspects (for instance the relationship between ethnical population and mortgage : https://apps.urban.org/features/mortgages-by-race/), and weren't provinding a global overview of the local and international socio-economic consequences. In our project, leveraging the use of differents datasets, we want to to include multiples perspectives like the international economic impact, the impact on the quality of life, on institutional collapses and analyze the fear of the crisis. All these elements will be integrated into dynamic visualizations, to provide and interactive and broad understanding of the subject.
+Our approach is original because most project done on these dataset were focused on specific aspects (for instance the relationship between ethnical population and mortgage : https://apps.urban.org/features/mortgages-by-race/), and weren't providing a global overview of the local and international socio-economic consequences. In our project, leveraging the use of different datasets, we aim to integrate multiple perspectives, such as the international economic impact, the impact on the quality of life, on institutional collapses and analyze the fear of the crisis. All these elements will be combined into dynamic visualizations to offer an interactive and comprehensive understanding of the crisis.
 
 We have some nice inspiration like the url displayed above even if it is lacking of interactivity, we would like to pursue and deepen the usage they made of the map.
 We also looked at project of students of these last years and the project on the formula 1 history(https://formula1viz.altervista.org/index.html) is very well realized and it would also be interesting to have an interactive map linked with displayed graphs / statistics.
