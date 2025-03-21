@@ -30,11 +30,11 @@ We chose multiple datasets to capture both micro-level (mortgage lending) and ma
 **1. Economic and Market Data in the USA**  
 - **[US Real Estate Prices (FRED – ASPUS)](https://fred.stlouisfed.org/series/ASPUS)**  
   - **Usage**: Compare real estate prices before and after the crisis.  
-  - **Visual Idea**: “Bubble burst” animation.  
 - **[Unemployment Rate (FRED – UNRATE)](https://fred.stlouisfed.org/series/UNRATE)**  
   - **Usage**: Track unemployment as a key social impact.  
 - **[Wealth of the Poorest Households (FRED – WFRBLB50107)](https://fred.stlouisfed.org/series/WFRBLB50107)**  
   - **Usage**: Assess the crisis’s impact on the most vulnerable groups.
+- **[State-Level Debt-to-Income ratio (Federal Reserve)](https://www.federalreserve.gov/releases/z1/dataviz/household_debt/state/map/#year:2008)**
 
 **2. Financial Institutions & Banking Sector**  
 - **[Banks Acquired/Bankrupted (Wikipedia)](https://en.wikipedia.org/wiki/List_of_banks_acquired_or_bankrupted_during_the_Great_Recession?utm_source=chatgpt.com)**  
