@@ -25,72 +25,50 @@ Please, fill the following sections about your project.
 >
 **1. Economic and Market Data in the USA**
 
-- US Real Estate Prices
-  
-        - Source: FRED – ASPUS
+- US Real Estate Prices (Source: FRED – ASPUS)
         - Usage: Visualize the evolution of real estate prices before and after the crisis.
         - Visual Idea: “Bubble burst” animation to illustrate the significant drop in prices.
   
-- Evolution of the Unemployment Rate in the USA
-  
-        - Source: FRED – UNRATE
+- Evolution of the Unemployment Rate in the USA ( Source: FRED – UNRATE)
         - Usage: Track the evolution of unemployment, a key indicator of the social impact of the crisis.
   
-- Wealth of the Poorest Households
-  
-        - Source: FRED – WFRBLB50107
+- Wealth of the Poorest Households (Source: FRED – WFRBLB50107)
         - Usage: Measure the crisis’s impact on the wealth of the most economically vulnerable groups.
   
 **2. Data on Financial Institutions and the Banking Sector**
 
-- List of Banks Acquired or Bankrupted During the Great Recession
-  
-        - Source: Wikipedia – List of banks acquired or bankrupted during the Great Recession
+- List of Banks Acquired or Bankrupted During the Great Recession (Source: Wikipedia – List of banks acquired or bankrupted during the Great Recession)
         - Usage: Create a map of the affected financial institutions (location, amount of losses, etc.).
   
-- List of Writedowns Due to the Subprime Crisis
-  
-        - Source: Wikipedia – List of writedowns due to subprime crisis
+- List of Writedowns Due to the Subprime Crisis (Source: Wikipedia – List of writedowns due to subprime crisis)
         - Usage: Visualize the magnitude of losses on certain financial products (MBS, CDO) by institution or region.
   
 - FDIC Failed Bank List
-  
-        - Source: FDIC Failed Bank List
         - Usage: Deepen the analysis of bank failures in the United States with official information (closing dates, assets, acquiring institutions) to understand the spatial and temporal distribution of failures during the crisis.
   
 **3. Global Data and Confidence Indicators**
 
-- Consumer Confidence Index
-  
-        - Source: OECD Consumer Confidence Index (CCI)
+- OECD Consumer Confidence Index
         - Usage: Map the evolution of consumer confidence worldwide, in connection with the impact of the crisis.
 
 - World Bank – World Development Indicators (WDI)
-  
-        - Source: World Bank – WDI
         - Usage: Analyze various global indicators (GDP, debt, unemployment rate, and effects on other sectors such as healthcare) to assess the scope of the financial crisis worldwide and its sectoral repercussions.
   
 **4. Data on the US Mortgage Sector**
 
-- Comprehensive Mortgage Data (HMDA)
-  
-        - Source: Consumer Finance – Historic HMDA Data
+- Comprehensive Mortgage Data HMDA (CFPB)
         - Features: Includes information on loan type, amount, demographic characteristics (race, gender, income), location (state, county, tract, etc.). Enables analysis of the distribution of payment defaults and correlation with other socio-economic indicators.
         - Usage: Creation of dynamic maps of defaults in the USA, cross statistical analyses (salary, credit situation, default rate).
   
 **5. Additional Data: Stock Market Indicators & Sentiment Analysis**
 
 - Financial Market Data (Yahoo Finance / Google Finance)
-  
-        - Source: Yahoo Finance or Google Finance
         - Usage:
             - Retrieve historical data on stock indices (S&P 500, Dow Jones, NASDAQ, etc.), bank stock prices, bond yields.
             - Visualize the market crash during the crisis and the subsequent recovery.
             - Compare the financial sector’s performance with other sectors of the economy.
   
 - Google Trends for Sentiment Analysis
-  
-        - Source: Google Trends
         - Usage:
             - Study the evolution of searches related to terms such as “mortgage,” “subprime,” or “financial crisis.”
             - Identify peaks in public interest and correlate them with key crisis events.
