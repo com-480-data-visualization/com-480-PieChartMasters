@@ -19,11 +19,6 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-> Find a dataset (or multiple) that you will explore. Assess the quality of the data it contains and how much preprocessing / data-cleaning it will require before tackling visualization. We recommend using a standard dataset as this course is not about scraping nor data processing.
->
-> Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
->
-
 We chose multiple datasets to capture both micro-level (mortgage lending) and macro-level (unemployment, global indicators) dimensions of the 2008 financial crisis. By combining data from the CFPB, FRED, World Bank, and others, we aim to highlight how individual borrower behavior and institutional practices intersected with broader market forces, culminating in a historic economic downturn.
 
 
@@ -47,14 +42,14 @@ We chose multiple datasets to capture both micro-level (mortgage lending) and ma
 **3. Global Data & Confidence Indicators**  
 - **[OECD Consumer Confidence Index](https://www.oecd.org/fr/data/indicators/consumer-confidence-index-cci.html?oecdcontrol-b2a0dbca4d-var3=2005-05&oecdcontrol-b2a0dbca4d-var4=2012-02)**  
   - **Usage**: Map worldwide consumer confidence in relation to the crisis.  
-- **World Bank – World Development Indicators (WDI)**  
+- **[World Bank – World Development Indicators (WDI)](https://data.worldbank.org/indicator)**  
   - **Usage**: Evaluate global crisis impact (GDP, debt, unemployment, healthcare).
 
 **4. US Mortgage Sector**  
 - **[Comprehensive Mortgage Data (HMDA, CFPB)](https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=nationwide&records=all-records&field_descriptions=labels)**  
   - **Features**: Loan type, amount, demographics, location; links defaults to socio-economic indicators.  
   - **Usage**: A valuable dataset for understanding the characteristics of mortgage lending before the collapse, providing insights into the factors that contributed to the crisis.  
-- **Mortgages 90+ Days Delinquent (CFPB)**  
+- **[Mortgages 90+ Days Delinquent (CFPB)](https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-90-or-more-days-delinquent/)**  
   - **Usage**: Identify delinquency clusters on a map over time. This dataset provides actual performance data, enabling clearer spatio-temporal insights into mortgage defaults.
 
 **5. Stock Market & Sentiment Analysis**  
@@ -65,10 +60,6 @@ We chose multiple datasets to capture both micro-level (mortgage lending) and ma
 
 
 ### Problematic
-
-> Frame the general topic of your visualization and the main axis that you want to develop.
-> - What am I trying to show with my visualization?
-> - Think of an overview for the project, your motivation, and the target audience.
 
 The general topic of our visualization is about the 2008 subprime mortgage crisis. The main goal is to understand the evolution of the crisis geographically and temporally.
 
