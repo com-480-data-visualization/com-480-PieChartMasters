@@ -98,9 +98,9 @@ The visualizations above will help us understand the subprime mortgage crisis, r
 > Pre-processing of the data set you chose
 > - Show some basic statistics and get insights about the data
 
-**Exploratory Data Analysis – Pre-processing Overview**
+For our chosen subject, many relevant datasets, such as US real estate prices (FRED – ASPUS), unemployment rate (FRED – UNRATE), and OECD consumer confidence index, are readily available from reputable sources like the Federal Reserve (FRED), OECD, and the World Bank. These datasets are typically clean, pre-processed single-feature time series that clearly illustrate the crisis's impact, often showing a distinct drop or spike around 2008.   
 
-Most of our selected datasets (e.g., real estate prices, unemployment, consumer confidence) are single-feature time series from reputable sources such as the Federal Reserve (FRED), OECD, and the World Bank. They typically display a notable drop or spike around 2008, reflecting the financial crisis’s impact. Because these datasets are already clean and straightforward, we will focus our exploratory analysis on the HMDA mortgage dataset, which is larger and requires more preprocessing.
+To provide additional insight into the crisis's underlying dynamics, we decided to concentrate our exploratory analysis on the Home Mortgage Disclosure Act (HMDA) dataset. This comprehensive mortgage dataset  offers valuable information on loan types, amounts, and borrower demographics, and it facilitates the study of the relationship between applicant characteristics and loan defaults.
 
 
 ### Related work
