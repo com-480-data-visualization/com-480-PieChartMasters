@@ -56,7 +56,7 @@ We chose multiple datasets to capture both micro-level (mortgage lending) and ma
 - **[Financial Market Data (Yahoo)](https://finance.yahoo.com/)**  
   - **Usage**: Retrieve historical indices (S&P 500, Dow, NASDAQ), visualize crash and recovery, compare sector performance.  
 - **[Google Trends](https://trends.google.fr/trends?geo=CH&hl=fr)**  
-  - **Usage**: Study searches for “mortgage,” “subprime,” etc.; identify interest peaks; gauge public sentiment.
+  - **Usage**: Study searches for “mortgage”, “subprime”, "crisis" etc.; identify interest peaks; gauge public sentiment.
 
 
 ### Problematic
