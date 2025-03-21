@@ -24,6 +24,9 @@ Please, fill the following sections about your project.
 > Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
 >
 
+We chose multiple datasets to capture both micro-level (mortgage lending) and macro-level (unemployment, global indicators) dimensions of the 2008 financial crisis. By combining data from the CFPB, FRED, World Bank, and others, we aim to highlight how individual borrower behavior and institutional practices intersected with broader market forces, culminating in a historic economic downturn.
+
+
 **1. Economic and Market Data in the USA**  
 - **US Real Estate Prices (FRED – ASPUS)**  
   - **Usage**: Compare real estate prices before and after the crisis.  
