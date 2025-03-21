@@ -70,6 +70,7 @@ Please, fill the following sections about your project.
 The general topic of our visualization is about the 2008 subprime mortgage crisis. The main goal is to understand the evolution of the crisis geographically and temporally.
 
 Here is an overview of the different aspect of the crisis that we want to show through some visualizations in order to understand them :
+
 **1. Understand the dynamics of mortgage defaults:**
     - With an interactive map of the United State, we want to highlight how mortgage defaults spreads over time in order to identify regional clusters of high default rates.
     - On the same visualization, we could also shows whether defaults started in specific locations.
