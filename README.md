@@ -28,39 +28,39 @@ We chose multiple datasets to capture both micro-level (mortgage lending) and ma
 
 
 **1. Economic and Market Data in the USA**  
-- **US Real Estate Prices (FRED – ASPUS)**  
+- **[US Real Estate Prices (FRED – ASPUS)](https://fred.stlouisfed.org/series/ASPUS)**  
   - **Usage**: Compare real estate prices before and after the crisis.  
   - **Visual Idea**: “Bubble burst” animation.  
-- **Unemployment Rate (FRED – UNRATE)**  
+- **[Unemployment Rate (FRED – UNRATE)](https://fred.stlouisfed.org/series/UNRATE)**  
   - **Usage**: Track unemployment as a key social impact.  
-- **Wealth of the Poorest Households (FRED – WFRBLB50107)**  
+- **[Wealth of the Poorest Households (FRED – WFRBLB50107)](https://fred.stlouisfed.org/series/WFRBLB50107)**  
   - **Usage**: Assess the crisis’s impact on the most vulnerable groups.
 
 **2. Financial Institutions & Banking Sector**  
-- **Banks Acquired/Bankrupted (Wikipedia)**  
+- **[Banks Acquired/Bankrupted (Wikipedia)](https://en.wikipedia.org/wiki/List_of_banks_acquired_or_bankrupted_during_the_Great_Recession?utm_source=chatgpt.com)**  
   - **Usage**: Map affected institutions (location, losses, etc.).  
-- **Subprime Crisis Writedowns (Wikipedia)**  
+- **[Subprime Crisis Writedowns (Wikipedia)](https://en.wikipedia.org/wiki/List_of_writedowns_due_to_subprime_crisis)**  
   - **Usage**: Show MBS/CDO losses by institution or region.  
-- **FDIC Failed Bank List**  
+- **[FDIC Failed Bank List](https://www.fdic.gov/bank-failures/failed-bank-list)**  
   - **Usage**: Analyze official bank failures (dates, assets, acquiring institutions) to understand spatial and temporal patterns.
 
 **3. Global Data & Confidence Indicators**  
-- **OECD Consumer Confidence Index**  
+- **[OECD Consumer Confidence Index](https://www.oecd.org/fr/data/indicators/consumer-confidence-index-cci.html?oecdcontrol-b2a0dbca4d-var3=2005-05&oecdcontrol-b2a0dbca4d-var4=2012-02)**  
   - **Usage**: Map worldwide consumer confidence in relation to the crisis.  
 - **World Bank – World Development Indicators (WDI)**  
   - **Usage**: Evaluate global crisis impact (GDP, debt, unemployment, healthcare).
 
 **4. US Mortgage Sector**  
-- **Comprehensive Mortgage Data (HMDA, CFPB)**  
+- **[Comprehensive Mortgage Data (HMDA, CFPB)](https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=nationwide&records=all-records&field_descriptions=labels)**  
   - **Features**: Loan type, amount, demographics, location; links defaults to socio-economic indicators.  
   - **Usage**: A valuable dataset for understanding the characteristics of mortgage lending before the collapse, providing insights into the factors that contributed to the crisis.  
 - **Mortgages 90+ Days Delinquent (CFPB)**  
   - **Usage**: Identify delinquency clusters on a map over time. This dataset provides actual performance data, enabling clearer spatio-temporal insights into mortgage defaults.
 
 **5. Stock Market & Sentiment Analysis**  
-- **Financial Market Data (Yahoo/Google Finance)**  
+- **[Financial Market Data (Yahoo)](https://finance.yahoo.com/)**  
   - **Usage**: Retrieve historical indices (S&P 500, Dow, NASDAQ), visualize crash and recovery, compare sector performance.  
-- **Google Trends**  
+- **[Google Trends](https://trends.google.fr/trends?geo=CH&hl=fr)**  
   - **Usage**: Study searches for “mortgage,” “subprime,” etc.; identify interest peaks; gauge public sentiment.
 
 
