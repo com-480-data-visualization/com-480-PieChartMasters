@@ -150,15 +150,15 @@ By focusing additional effort on the mortgage dataset’s preprocessing, we can 
 
 Multiples institutions and researchers have used the HMDA dataset for similar analyses: 
 
--Urban Institute & Housing Finance Policy Center: Analyzed mortgage denial rates, small-dollar lending, and racial disparities in lending.
+> - Urban Institute & Housing Finance Policy Center: Analyzed mortgage denial rates, small-dollar lending, and racial disparities in lending.
 (https://apps.urban.org/features/mortgages-by-race/)
--Federal Reserve & CFPB: Regularly published reports on mortgage market trends using HMDA data.
--Journalists & Data Scientists: Used HMDA data to map the mortgage crisis, focusing on regional default rates and their impact on minority communities (https://jhucovid19.policymap.com/blog/using-hmda-data-to-understand-lending-activity-in-detroit)
--Academic Studies: Researchers have built models to analyze how mortgage defaults propagated through the banking system. While the exact datasets may vary slightly, they contain similar types of financial information.
+> - Federal Reserve & CFPB: Regularly published reports on mortgage market trends using HMDA data.
+> - Journalists & Data Scientists: Used HMDA data to map the mortgage crisis, focusing on regional default rates and their impact on minority communities (https://jhucovid19.policymap.com/blog/using-hmda-data-to-understand-lending-activity-in-detroit)
+> - Academic Studies: Researchers have built models to analyze how mortgage defaults propagated through the banking system. While the exact datasets may vary slightly, they contain similar types of financial information.
 
-Our approach is still original because most project done on these dataset were focused on specific aspects like the race : https://apps.urban.org/features/mortgages-by-race/. In our project we want to to include multiples perspectives like the international economic impact, the impact on the quality of life, the impact on institutional collapses and even the fear of crisis. All these elements will be integrated into dynamic visualizations, ensuring smooth and interactive storytelling.
+> Our approach is still original because most project done on these dataset were focused on specific aspects like the race : https://apps.urban.org/features/mortgages-by-race/. In our project we want to to include multiples perspectives like the international economic impact, the impact on the quality of life, the impact on institutional collapses and even the fear of crisis. All these elements will be integrated into dynamic visualizations, ensuring smooth and interactive storytelling.
 
-We have some nice inspiration like the url displayed above even if it is lacking of interactivity, we would like to pursue and deepen the usage they made of the map.
+> We have some nice inspiration like the url displayed above even if it is lacking of interactivity, we would like to pursue and deepen the usage they made of the map.
 We also looked at project of students of these last years and the project on the formula 1 history(https://formula1viz.altervista.org/index.html) is very well realized and it would also be interesting to have an interactive map linked with displayed graphs / statistics.
 
 ## Milestone 2 (18th April, 5pm)
