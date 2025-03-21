@@ -91,16 +91,11 @@ The visualizations above will help us understand the subprime mortgage crisis, r
 
 ### Exploratory Data Analysis
 
-> Pre-processing of the data set you chose
-> - Show some basic statistics and get insights about the data
-
 For our chosen subject, most relevant datasets we chose, such as US real estate prices, unemployment rate, and OECD consumer confidence index, are  available from reputable sources. These datasets are typically clean, pre-processed single-feature time series that provide strong insight on the crisis's impact (real estate price boom and then drop, unemployement growth, growing debt load before the crisis, etc.).
 
 The dataset that will require the most preprocessing and advance data analysis (eventually using Machine Learning models) is the HDMA Mortgage dataset. While we will use HDMA data from 2007–2010 in practice, we will here explore the 2007 dataset since it is representative of the aggregate. This dataset includes 953,569 mortgage applications and 78 features covering loan details, borrower demographics (population, genre), and lending decisions. Key categorical variables include loan type, loan purpose, property type, and applicant credit factors, while numerical features such as loan amounts, income, and approval rates provide insights on the lending characteristics leading up to the crisis and assess how borrower characteristics influenced loan approval and potential defaults. After preprocessing, more than 20 features were dropped due to excessive missing values or irrelevance.
 
 The dataset seems to provide a very broad view of the mortgage situation in the USA, as it includes all types of transactions and applicant. Loan amounts range from $1,000 to nearly $100M (median: $140K; mean: $182K), while incomes span from $1K to almost $10M (median: $69K; mean: $95.6K). Loans are geographically diverse, covering 16,075 ZIP codes across 1,711 counties in all 50 states. Concerning the loan purpose, refinancing is the primary (~50%), followed by home purchases (~41%) and home improvements (~9%). This last point provides a first good insight on the situation in 2007, as it was common to cover loan payment via refinancing, taking advantage of the continuously growing real estate prices (until the burst), with debt accumulating until a breaking point. 
-
-
 
 ---------------------------------------------------------------------------------------------------
 
@@ -118,6 +113,8 @@ Our approach is original because most project done on these dataset were focused
 
 We have some nice inspiration like the url displayed above even if it is lacking of interactivity, we would like to pursue and deepen the usage they made of the map.
 We also looked at project of students of these last years and the project on the formula 1 history(https://formula1viz.altervista.org/index.html) is very well realized and it would also be interesting to have an interactive map linked with displayed graphs / statistics.
+
+----------------------------------------------------------------------------------------------------------
 
 ## Milestone 2 (18th April, 5pm)
 
