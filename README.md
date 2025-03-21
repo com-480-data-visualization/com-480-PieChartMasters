@@ -23,56 +23,41 @@ Please, fill the following sections about your project.
 >
 > Hint: some good pointers for finding quality publicly available datasets ([Google dataset search](https://datasetsearch.research.google.com/), [Kaggle](https://www.kaggle.com/datasets), [OpenSwissData](https://opendata.swiss/en/), [SNAP](https://snap.stanford.edu/data/) and [FiveThirtyEight](https://data.fivethirtyeight.com/)), you could use also the DataSets proposed by the ENAC (see the Announcements section on Zulip).
 >
-**1. Economic and Market Data in the USA**
 
-- US Real Estate Prices (Source: FRED – ASPUS)
-        - Usage: Visualize the evolution of real estate prices before and after the crisis.
-        - Visual Idea: “Bubble burst” animation to illustrate the significant drop in prices.
-  
-- Evolution of the Unemployment Rate in the USA ( Source: FRED – UNRATE)
-        - Usage: Track the evolution of unemployment, a key indicator of the social impact of the crisis.
-  
-- Wealth of the Poorest Households (Source: FRED – WFRBLB50107)
-        - Usage: Measure the crisis’s impact on the wealth of the most economically vulnerable groups.
-  
-**2. Data on Financial Institutions and the Banking Sector**
+**1. Economic and Market Data in the USA**  
+- **US Real Estate Prices (FRED – ASPUS)**
+  - **Usage**: Compare real estate prices before and after the crisis.
+  - **Visual Idea**: “Bubble burst” animation.
+- **Unemployment Rate (FRED – UNRATE)**
+  - **Usage**: Track unemployment as a key social impact.
+- **Wealth of the Poorest Households (FRED – WFRBLB50107)**
+  - **Usage**: Assess the crisis’s impact on the most vulnerable groups.
 
-- List of Banks Acquired or Bankrupted During the Great Recession (Source: Wikipedia – List of banks acquired or bankrupted during the Great Recession)
-        - Usage: Create a map of the affected financial institutions (location, amount of losses, etc.).
-  
-- List of Writedowns Due to the Subprime Crisis (Source: Wikipedia – List of writedowns due to subprime crisis)
-        - Usage: Visualize the magnitude of losses on certain financial products (MBS, CDO) by institution or region.
-  
-- FDIC Failed Bank List
-        - Usage: Deepen the analysis of bank failures in the United States with official information (closing dates, assets, acquiring institutions) to understand the spatial and temporal distribution of failures during the crisis.
-  
-**3. Global Data and Confidence Indicators**
+**2. Financial Institutions & Banking Sector**  
+- **Banks Acquired/Bankrupted (Wikipedia)**
+  - **Usage**: Map affected institutions (location, losses, etc.).
+- **Subprime Crisis Writedowns (Wikipedia)**
+  - **Usage**: Show MBS/CDO losses by institution or region.
+- **FDIC Failed Bank List**
+  - **Usage**: Analyze official bank failures (dates, assets, acquiring institutions) to understand spatial and temporal patterns.
 
-- OECD Consumer Confidence Index
-        - Usage: Map the evolution of consumer confidence worldwide, in connection with the impact of the crisis.
+**3. Global Data & Confidence Indicators**  
+- **OECD Consumer Confidence Index**
+  - **Usage**: Map worldwide consumer confidence in relation to the crisis.
+- **World Bank – World Development Indicators (WDI)**
+  - **Usage**: Evaluate global crisis impact (GDP, debt, unemployment, healthcare).
 
-- World Bank – World Development Indicators (WDI)
-        - Usage: Analyze various global indicators (GDP, debt, unemployment rate, and effects on other sectors such as healthcare) to assess the scope of the financial crisis worldwide and its sectoral repercussions.
-  
-**4. Data on the US Mortgage Sector**
+**4. US Mortgage Sector**  
+- **Comprehensive Mortgage Data (HMDA, CFPB)**
+  - **Features**: Loan type, amount, demographics, location; links defaults to socio-economic indicators.
+  - **Usage**: Create default maps, cross-analyze (income, credit status, default rate).
 
-- Comprehensive Mortgage Data HMDA (CFPB)
-        - Features: Includes information on loan type, amount, demographic characteristics (race, gender, income), location (state, county, tract, etc.). Enables analysis of the distribution of payment defaults and correlation with other socio-economic indicators.
-        - Usage: Creation of dynamic maps of defaults in the USA, cross statistical analyses (salary, credit situation, default rate).
-  
-**5. Additional Data: Stock Market Indicators & Sentiment Analysis**
+**5. Stock Market & Sentiment Analysis**  
+- **Financial Market Data (Yahoo/Google Finance)**
+  - **Usage**: Retrieve historical indices (S&P 500, Dow, NASDAQ), visualize crash and recovery, compare sector performance.
+- **Google Trends**
+  - **Usage**: Study searches for “mortgage,” “subprime,” etc.; identify interest peaks; gauge public sentiment.
 
-- Financial Market Data (Yahoo Finance / Google Finance)
-        - Usage:
-            - Retrieve historical data on stock indices (S&P 500, Dow Jones, NASDAQ, etc.), bank stock prices, bond yields.
-            - Visualize the market crash during the crisis and the subsequent recovery.
-            - Compare the financial sector’s performance with other sectors of the economy.
-  
-- Google Trends for Sentiment Analysis
-        - Usage:
-            - Study the evolution of searches related to terms such as “mortgage,” “subprime,” or “financial crisis.”
-            - Identify peaks in public interest and correlate them with key crisis events.
-            - Adopt a qualitative approach to understand consumer perception and concerns.
 
 ### Problematic
 
