@@ -91,8 +91,7 @@ The visualizations above will help us understand the subprime mortgage crisis, r
 
 For our chosen subject, many relevant datasets, such as US real estate prices (FRED – ASPUS), unemployment rate (FRED – UNRATE), and OECD consumer confidence index, are readily available from reputable sources like the Federal Reserve (FRED), OECD, and the World Bank. These datasets are typically clean, pre-processed single-feature time series that clearly illustrate the crisis's impact, often showing a distinct drop or spike around 2008.   
 
-To provide additional insight into the crisis's underlying dynamics, we decided to concentrate our exploratory analysis on the Home Mortgage Disclosure Act (HMDA) dataset. This comprehensive mortgage dataset  offers valuable information on loan types, amounts, and borrower demographics, and it facilitates the study of the relationship between applicant characteristics and loan defaults.
-
+While we will use HDMA data from 2007–2010 in practice, we will here explore the 2007 dataset since it is representative of the aggregate. This dataset includes 953,569 mortgage applications and 78 features covering loan details, borrower demographics (population, genre), and lending decisions. Key categorical variables include loan type, loan purpose, property type, and applicant credit factors, while numerical features such as loan amounts, income, and approval rates provide crucial financial insights. This dataset allows us to examine lending characteristics leading up to the crisis and assess how borrower characteristics influenced loan approval and potential defaults.
 
 ### Related work
 
