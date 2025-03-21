@@ -21,7 +21,7 @@ Please, fill the following sections about your project.
 
 ### Dataset
 
-To comprehensively analyze the 2008 financial crisis, we use multiple datasets covering both micro-level factors (mortgage lending) and macro-level effects (unemployment, global economic indicators). This allows us to examine both causes and consequences across different scales. 
+To analyze the 2008 financial crisis, we chose multiple datasets covering both micro-level factors (mortgage lending) and macro-level effects (unemployment, global economic indicators). This allows us to examine both causes and consequences across different scales. 
 
 **1. Economic and Market Data in the USA**  
 - **[US Real Estate Prices (FRED – ASPUS)](https://fred.stlouisfed.org/series/ASPUS)**  
