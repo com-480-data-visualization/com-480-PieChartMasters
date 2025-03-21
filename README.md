@@ -84,7 +84,7 @@ Here is an overview of the different aspect of the crisis that we want to show t
 - With a heatmap or a word cloud using Google Trends, we want to highlight how economic fear propagated.
 - Completing this with a timeseries to understand when the fear started to propagate
 
-The visualizations above will help us understand the subprime mortgage crisis, revealing the key indicators, how they changed over time, and the underlying reasons behind the meltdown. Highlighting patterns and trends, this analysis not only explains the past, but attempts to identify possible early signals providing a framework that could be applied to predict and avoid future financial crises. Since this subject is fairly technical and involves various financial concepts, it will be essential to build the visualizations in a way that will be understandable by someone without prior knowledge on the topic. 
+By identifying patterns and trends, our analysis aims to provide a comprehensive view of the crisis—its causes, its widespread impact, and the signals that preceded it. While some visualizations explore early warning signs, most focus on understanding the economic and financial consequences of the meltdown. The project is designed to be accessible, even for those without a financial background.  
 
 --------------------------------------------------------------------------------------------------------------------
 
