@@ -17,6 +17,8 @@ Please, fill the following sections about your project.
 
 *(max. 2000 characters per section)*
 
+------------------------------------------------------------------------------------------------------------------------------
+
 ### Dataset
 
 We chose multiple datasets to capture both micro-level (mortgage lending) and macro-level (unemployment, global indicators) dimensions of the 2008 financial crisis. By combining data from the CFPB, FRED, World Bank, and others, we aim to highlight how individual borrower behavior and institutional practices intersected with broader market forces, culminating in a historic economic downturn.
