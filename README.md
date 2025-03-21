@@ -70,20 +70,20 @@ Please, fill the following sections about your project.
 The general topic of our visualization is about the 2008 subprime mortgage crisis. The main goal is to understand the evolution of the crisis geographically and temporally.
 
 Here is an overview of the different aspect of the crisis that we want to show through some visualizations in order to understand them :
-1. Understand the dynamics of mortgage defaults:
+**1. Understand the dynamics of mortgage defaults:**
     - With an interactive map of the United State, we want to highlight how mortgage defaults spreads over time in order to identify regional clusters of high default rates.
     - On the same visualization, we could also shows whether defaults started in specific locations.
     - By adding other economic factors (such as real estate price, unemployment, and other factors), we can highlight possible correlations on another visualization. 
 
-2. Understand the international and socioeconomic impact of mortgage defaults:
+**2. Understand the international and socioeconomic impact of mortgage defaults:**
     - With an interactive map of the world, we want to highlight how the crisis spread in the world through various economic indicators (Consumer index, ...) and see which country were most affected by the financial crisis.
     - With time-series graphs of various socioeconomic indicators (like unemployement, net worth, household debt, ...), we want to highlight how household wealth eroded post-crisis.
 
-3. Understand the effects on financial markets:
+**3. Understand the effects on financial markets:**
     - With a time series of major stock indices supplemented with crisis events marked in order to understand the timeline of the crisis and how the financial market reacted in response to key events.
     - With a Bubble map of companies loss and companies that goes in bankruptcy, we want to highlight to major financial institutions that collapsed.
    
-4. Identify the early warning signals and their spread:
+**4. Identify the early warning signals and their spread:**
     - With a heatmap or a word cloud using Google Trends, we want to highlight how economic fear propagated.
     - Completting this with a timeseries to understand when the fear started to propagate
 
@@ -109,15 +109,15 @@ Most of our selected datasets (e.g., real estate prices, unemployment, consumer 
 
 Multiples institutions and researchers have used the HMDA dataset for similar analyses: 
 
-> - Urban Institute & Housing Finance Policy Center: Analyzed mortgage denial rates, small-dollar lending, and racial disparities in lending.
+- Urban Institute & Housing Finance Policy Center: Analyzed mortgage denial rates, small-dollar lending, and racial disparities in lending.
 (https://apps.urban.org/features/mortgages-by-race/)
-> - Federal Reserve & CFPB: Regularly published reports on mortgage market trends using HMDA data.
-> - Journalists & Data Scientists: Used HMDA data to map the mortgage crisis, focusing on regional default rates and their impact on minority communities (https://jhucovid19.policymap.com/blog/using-hmda-data-to-understand-lending-activity-in-detroit)
-> - Academic Studies: Researchers have built models to analyze how mortgage defaults propagated through the banking system. While the exact datasets may vary slightly, they contain similar types of financial information.
+- Federal Reserve & CFPB: Regularly published reports on mortgage market trends using HMDA data.
+- Journalists & Data Scientists: Used HMDA data to map the mortgage crisis, focusing on regional default rates and their impact on minority communities (https://jhucovid19.policymap.com/blog/using-hmda-data-to-understand-lending-activity-in-detroit)
+- Academic Studies: Researchers have built models to analyze how mortgage defaults propagated through the banking system. While the exact datasets may vary slightly, they contain similar types of financial information.
 
-> Our approach is still original because most project done on these dataset were focused on specific aspects like the race : https://apps.urban.org/features/mortgages-by-race/. In our project we want to to include multiples perspectives like the international economic impact, the impact on the quality of life, the impact on institutional collapses and even the fear of crisis. All these elements will be integrated into dynamic visualizations, ensuring smooth and interactive storytelling.
+Our approach is still original because most project done on these dataset were focused on specific aspects like the race : https://apps.urban.org/features/mortgages-by-race/. In our project we want to to include multiples perspectives like the international economic impact, the impact on the quality of life, the impact on institutional collapses and even the fear of crisis. All these elements will be integrated into dynamic visualizations, ensuring smooth and interactive storytelling.
 
-> We have some nice inspiration like the url displayed above even if it is lacking of interactivity, we would like to pursue and deepen the usage they made of the map.
+We have some nice inspiration like the url displayed above even if it is lacking of interactivity, we would like to pursue and deepen the usage they made of the map.
 We also looked at project of students of these last years and the project on the formula 1 history(https://formula1viz.altervista.org/index.html) is very well realized and it would also be interesting to have an interactive map linked with displayed graphs / statistics.
 
 ## Milestone 2 (18th April, 5pm)
