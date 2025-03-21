@@ -1,4 +1,6 @@
-# Project of Data Visualization (COM-480) : Visualizing the 2008 Subprime Crisis
+# Project of Data Visualization (COM-480) : 
+
+#Visualizing the 2008 Subprime Crisis
 
 | Student's name | SCIPER |
 | -------------- | ------ |
