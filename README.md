@@ -48,7 +48,7 @@ To analyze the 2008 financial crisis, we chose multiple datasets covering both m
   - Evaluate global crisis impact (GDP, debt, unemployment, healthcare).
 
 **4. US Mortgage Sector**  
-- **[Comprehensive Mortgage Data (HMDA, CFPB)](https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=nationwide&records=all-records&field_descriptions=labels)**  
+- **[Complete Mortgage Data (HMDA, CFPB)](https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=nationwide&records=all-records&field_descriptions=labels)**  
   - This dataset reveals mortgage lending trends before the collapse, highlighting contributing factors.
 - **[Mortgages 90+ Days Delinquent (CFPB)](https://www.consumerfinance.gov/data-research/mortgage-performance-trends/mortgages-90-or-more-days-delinquent/)**  
   - Identify delinquency clusters on a map over time. This dataset provides actual performance data, enabling clearer spatio-temporal insights into mortgage defaults.
