@@ -31,15 +31,15 @@ To comprehensively analyze the 2008 financial crisis, we use multiple datasets c
 - **[Wealth of the Poorest Households (FRED – WFRBLB50107)](https://fred.stlouisfed.org/series/WFRBLB50107)**  
   - Assess the crisis’s impact on the most vulnerable groups.
 - **[State-Level Debt-to-Income ratio (Federal Reserve)](https://www.federalreserve.gov/releases/z1/dataviz/household_debt/state/map/#year:2008)**
-  - Show that debt level were a clear indicator of instability
+  - Show that debt levels were a clear indicator of instability
 
 **2. Financial Institutions & Banking Sector**  
 - **[Banks Acquired/Bankrupted (Wikipedia)](https://en.wikipedia.org/wiki/List_of_banks_acquired_or_bankrupted_during_the_Great_Recession)**  
-  - Map affected institutions (location, losses, etc.).  
-- **[Subprime Crisis Writedowns (Wikipedia)](https://en.wikipedia.org/wiki/List_of_writedowns_due_to_subprime_crisis)**  
+  - List of affected institutions (location, losses, etc.).  
+- **[Subprime Crisis Write-downs (Wikipedia)](https://en.wikipedia.org/wiki/List_of_writedowns_due_to_subprime_crisis)**  
   - Show MBS/CDO losses by institution or region.  
 - **[FDIC Failed Bank List](https://www.fdic.gov/bank-failures/failed-bank-list)**  
-  - Analyze official bank failures (dates, assets, acquiring institutions) to understand spatial and temporal patterns.
+  - Analyze official USA bank failures (dates, assets, acquiring institutions) to understand spatial and temporal patterns.
 
 **3. Global Data & Confidence Indicators**  
 - **[OECD Consumer Confidence Index](https://www.oecd.org/fr/data/indicators/consumer-confidence-index-cci.html?oecdcontrol-b2a0dbca4d-var3=2005-05&oecdcontrol-b2a0dbca4d-var4=2012-02)**  
@@ -114,7 +114,7 @@ Multiple institutions and researchers have used the HMDA dataset for similar ana
 - Journalists & Data Scientists: Used HMDA data to map the mortgage crisis, focusing on regional default rates and their impact on minority communities (https://jhucovid19.policymap.com/blog/using-hmda-data-to-understand-lending-activity-in-detroit)
 - Academic Studies: Researchers have built models to analyze how mortgage defaults propagated through the banking system. While the exact datasets may vary slightly, they contain similar types of financial information.
 
-Our approach is original because most projects done on these dataset focused on specific aspects (for instance, the relationship between ethnic groups and mortgage approvals), and did not provide a full overview of the local and international socio-economic consequences. In our project, leveraging the use of different datasets, we aim to integrate multiple perspectives, such as the international economic impact, the impact on the quality of life, on institutional collapses and analyze the fear of the crisis. All these elements will be combined into dynamic visualizations to offer an interactive and comprehensive understanding of the crisis.
+Our approach is original because most projects done on this dataset focused on specific aspects (for instance, the relationship between ethnic groups and mortgage approvals), and did not provide a full overview of the local and international socio-economic consequences. In our project, leveraging the use of different datasets, we aim to integrate multiple perspectives, such as the international economic impact, the impact on the quality of life, on institutional collapses and analyze the fear of the crisis. All these elements will be combined into dynamic visualizations to offer an interactive and comprehensive understanding of the crisis.
 
 We found inspiration in the URL displayed above, although it lacks interactivity. We would like to pursue and deepen the usage they made of the map.
 We also looked at projects from students in previous years, and the project on Formula 1 history (https://formula1viz.altervista.org/index.html) is very well realized and it would also be interesting to have an interactive map linked to displayed graphs and statistics.
