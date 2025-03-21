@@ -63,9 +63,9 @@ To comprehensively analyze the 2008 financial crisis, we use multiple datasets c
 
 ### Problematic
 
-The general topic of our visualization is about the 2008 subprime mortgage crisis. The main goal is to understand the evolution of the crisis geographically and temporally.
+Our visualization project explores the 2008 subprime mortgage crisis, focusing on its **geographic** and **temporal** evolution. 
 
-Here is an overview of the different aspect of the crisis that we want to show through some visualizations in order to understand them :
+Through interactive visualizations, we aim to highlight key aspects of the crisis:  
 
 **1. Understand the dynamics of mortgage defaults:**
 - With an interactive map of the United State, we want to highlight how mortgage defaults spreads over time in order to identify regional clusters of high default rates.
