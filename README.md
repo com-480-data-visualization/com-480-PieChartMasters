@@ -1,3 +1,5 @@
+#THIS REPOSITORY IS OBSOLETE THE ACTIVE ONE IS -> https://github.com/com-480-data-visualization/Pie-Chart-Masters
+
 # Project of Data Visualization (COM-480) : 
 
 ## Visualizing the 2008 Subprime Crisis
